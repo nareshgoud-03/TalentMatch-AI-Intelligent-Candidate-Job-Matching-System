@@ -1,0 +1,6 @@
+job_id,title,required_skills
+J01,Junior AI Engineer,python sql machine learning classification model evaluation git
+J02,RAG Engineer,python embeddings retrieval vector database document search evaluation
+J03,Computer Vision Engineer,python opencv object detection image annotation pytorch
+J04,AI Agent Engineer,python tool calling agent workflows unit testing git debugging
+J05,ML Operations Engineer,python fastapi docker linux monitoring deployment sql

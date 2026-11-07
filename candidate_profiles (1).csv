@@ -1,0 +1,31 @@
+candidate_id,display_name,skills,evidence_type,years_experience
+C001,Applicant 01,python | sql | machine learning | classification | model evaluation | git,portfolio project,2
+C002,Applicant 02,python | embeddings | retrieval | vector database | document search | evaluation,academic project,0
+C003,Applicant 03,python | opencv | object detection | image annotation | pytorch,internship,0
+C004,Applicant 04,python | tool calling | agent workflows | unit testing | git | debugging,portfolio project,0
+C005,Applicant 05,python | fastapi | docker | linux | monitoring | deployment | sql,portfolio project,0
+C006,Applicant 06,python | python | SQL | machine-learning | git,academic project,0
+C007,Applicant 07,python | no experience in docker | git,portfolio project,0
+C008,Applicant 08,python | retrieval | retrival | embeddings,internship,0
+C009,Applicant 09,document search | monitoring | python | linux,academic project,1
+C010,Applicant 10,deployment | document search | opencv | git | object detection | classification | embeddings,academic project,0
+C011,Applicant 11,debugging | object detection | pytorch | deployment | retrieval | linux | opencv | machine learning,academic project,0
+C012,Applicant 12,agent workflows | embeddings | model evaluation | docker | document search | monitoring | debugging,portfolio project,0
+C013,Applicant 13,debugging | docker | agent workflows | linux | monitoring | machine learning | document search | statistics,portfolio project,2
+C014,Applicant 14,monitoring | sql | deployment | statistics | embeddings | git | pytorch | agent workflows | unit testing,academic project,0
+C015,Applicant 15,tool calling | statistics | model evaluation | unit testing | document search | deployment | vector database,internship,2
+C016,Applicant 16,fastapi | docker | git | retrieval,internship,0
+C017,Applicant 17,statistics | image annotation | docker | document search,portfolio project,1
+C018,Applicant 18,deployment | docker | image annotation | git,internship,0
+C019,Applicant 19,retrieval | python | linux | opencv | model evaluation | embeddings | sql,portfolio project,0
+C020,Applicant 20,docker | retrieval | machine learning | tool calling | embeddings | pytorch,academic project,0
+C021,Applicant 21,git | retrieval | classification,academic project,2
+C022,Applicant 22,monitoring | debugging | image annotation,academic project,1
+C023,Applicant 23,object detection | statistics | unit testing | vector database | docker,internship,0
+C024,Applicant 24,git | document search | debugging,internship,0
+C025,Applicant 25,retrieval | tool calling | machine learning | embeddings | nlp | python | sql | debugging | image annotation,internship,2
+C026,Applicant 26,agent workflows | deployment | vector database,internship,2
+C027,Applicant 27,debugging | embeddings | python | deployment | image annotation | classification,portfolio project,0
+C028,Applicant 28,image annotation | linux | agent workflows | sql | vector database,internship,0
+C029,Applicant 29,classification | model evaluation | agent workflows | linux | docker | embeddings | monitoring | retrieval,portfolio project,1
+C030,Applicant 30,embeddings | classification | data cleaning | statistics | opencv | python | model evaluation,academic project,0
